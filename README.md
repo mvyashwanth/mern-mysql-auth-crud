@@ -2,9 +2,7 @@
 
 ## QUICK START (Do these steps in order)
 
-```
-M V YASHWANTYH
-```
+
 ### Step 1: Setup MySQL tables
 ```
 mysql -u root -p < database.sql
