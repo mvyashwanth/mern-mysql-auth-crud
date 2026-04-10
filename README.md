@@ -1,5 +1,5 @@
 # MERN Stack Auth + CRUD with MySQL
-##M V YASHWANTH
+
 ## QUICK START (Do these steps in order)
 
 ### Step 1: Setup MySQL tables
